@@ -1,5 +1,5 @@
 a = 19
-name = "Sujeesh Pt"
+name = "SUJEESH PT"
 clg="gptc chelakkara"
-print(" I am ")
-print(name,a,clg)
+print("SELF INTRODUCTION""\nhow am I \n","I am",name,"\n my age is",a,"\n i am studying in",clg)
+
