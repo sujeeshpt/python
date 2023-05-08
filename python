@@ -1,0 +1,5 @@
+a = 19
+name = "Sujeesh Pt"
+clg="gptc chelakkara"
+print(" I am ")
+print(name,a,clg)
